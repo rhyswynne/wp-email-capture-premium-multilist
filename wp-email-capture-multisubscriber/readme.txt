@@ -1,4 +1,4 @@
-=== WP Email Capture ===
+=== WP Email Capture (Muli List Subscriber) ===
 Tags: wp email capture, multi list, form, shortcode, email, affiliate marketing
 Requires at least: 3.0
 Tested up to: 3.7.1
