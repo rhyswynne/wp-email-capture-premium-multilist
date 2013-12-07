@@ -1,4 +1,5 @@
-=== WP Email Capture (Muli List Subscriber) ===
+WP Email Capture (Muli List Subscriber)
+=======================================
 Tags: wp email capture, multi list, form, shortcode, email, affiliate marketing
 Requires at least: 3.0
 Tested up to: 3.7.1
@@ -9,7 +10,8 @@ Donate link: http://wpemailcapture.com/pricing/
 
 Multi List Subscriber Addon for WP Email Capture Premium.
 
-== Description ==
+Description
+===========
 This plugin adds on a shortcode form that you can use to subscribe to any list from one form.
 
 This plugin is **unsupported**.
@@ -23,7 +25,8 @@ Keep in Contact:-
 * For support requests please visit the [FAQ's](http://wpemailcapture.com/free-plugin/frequently-asked-questions/), or leave a message in the Wordpress Support Forum. 
 * For general feature requests or bug notices [please contact me directly](http://wpemailcapture.com/contact/), however any support requests sent via the contact form will be ignored - please use the WordPress Support Forum - please note I'm unable to support CSS or styling queries, please read the "Stylings" area on other notes.
 
-== Installation ==
+Installation
+============
 1. Upload the plugin (unzipped) into `/wp-content/plugins/`.
 2. Activate the plugin under the "Plugins" menu.
 
@@ -39,6 +42,8 @@ Attributes you can use are the following
 * **submittext** - The text or Image URL of the button.
 * **displayerror** - Display errors above the form. Default switched on (yes).
 
-== Change Log ==
-= 0.1 (28/11/13) =
+Change Log
+==========
+0.1 (28/11/13)
+--------------
 * Plugin Launched
